@@ -1,5 +1,5 @@
 package com.epam.NewYearGifts;
 
-public class Chocolates {
+public abstract class Chocolates {
 
 }
